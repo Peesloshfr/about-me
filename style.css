@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    border-radius: 20px;
+    border: solid;
+}
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: azure;
+    color:black
+}
